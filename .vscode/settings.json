@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "imshow",
+        "imwrite",
+        "keras",
+        "matplotlib",
+        "opencv",
+        "siamesemodel"
+    ],
+    "git.ignoreLimitWarning": true
+}
