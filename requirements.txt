@@ -1,0 +1,1 @@
+kivy[full] kivy_examples
