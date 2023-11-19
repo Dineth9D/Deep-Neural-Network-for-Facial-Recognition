@@ -1,2 +1,1 @@
-kivy[full] kivy_examples
 opencv-python
